@@ -3,8 +3,8 @@
 
 ---
 
-[Назад: Продвинутые возможности](/sections/6_advanced_features%20copy.md)
+[Назад: Продвинутые возможности](../sections/6_advanced_features%20copy.md)
 
-[Далее: Заключение](/sections/8_conclusion.md)
+[Далее: Заключение](../sections/8_conclusion.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)

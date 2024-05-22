@@ -347,8 +347,8 @@ Snapshot testing в Playwright — это мощный инструмент дл
 
 ---
 
-[Назад: Установка и настройка](/sections/2_installation_and_setup.md)
+[Назад: Установка и настройка](../sections/2_installation_and_setup.md)
 
-[Далее: Playwright UI](/sections/4_ui_mode.md)
+[Далее: Playwright UI](../sections/4_ui_mode.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)

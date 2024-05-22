@@ -104,7 +104,7 @@ module.exports = {
 
 - [Playwright configuration docs](https://playwright.dev/docs/test-configuration)
 - [allure-playwright](https://allurereport.org/docs/playwright/)
-- [junit фоточки](/assets/junit.md)
+- [junit фоточки](../assets/junit.md)
 
 ### Тестирование мобильных устройств в Playwright
 
@@ -183,8 +183,8 @@ npx playwright test
 
 ---
 
-[Назад: Введение](/sections/1_introduction.md)
+[Назад: Введение](../sections/1_introduction.md)
 
-[Далее: Основные концепции](/sections/3_core_concepts.md)
+[Далее: Основные концепции](../sections/3_core_concepts.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)

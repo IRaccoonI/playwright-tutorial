@@ -147,8 +147,8 @@ npx playwright merge-reports --reporter=html ./all-blob-reports
 
 ---
 
-[Назад: Сравнение с другими инструментами](/sections/5_comparing.md)
+[Назад: Сравнение с другими инструментами](../sections/5_comparing.md)
 
-[Далее: Мб полезное](/sections/7_maybe_usefull.md)
+[Далее: Мб полезное](../sections/7_maybe_usefull.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)

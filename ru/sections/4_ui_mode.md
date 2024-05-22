@@ -60,8 +60,8 @@ npx playwright test --ui
 
 ---
 
-[Назад: Основные концепции](/sections/3_core_concepts.md)
+[Назад: Основные концепции](../sections/3_core_concepts.md)
 
-[Далее: Сравнение с другими инструментами](/sections/5_comparing.md)
+[Далее: Сравнение с другими инструментами](../sections/5_comparing.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)

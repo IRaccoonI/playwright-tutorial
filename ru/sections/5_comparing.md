@@ -115,8 +115,8 @@ const puppeteer = require("puppeteer");
 
 ---
 
-[Назад: Playwright UI](/sections/4_ui_mode.md)
+[Назад: Playwright UI](../sections/4_ui_mode.md)
 
-[Далее: Продвинутые возможности](/sections/6_advanced_features.md)
+[Далее: Продвинутые возможности](../sections/6_advanced_features.md)
 
-[Содержание](/sections.md)
+[Содержание](../sections.md)
